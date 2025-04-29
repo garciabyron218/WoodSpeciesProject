@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Model weights / output
+*.pth
+*.pt
+
+# IDE / Editor settings
+.idea/
+.vscode/
+.DS_Store
+
+# OS files
+Thumbs.db
