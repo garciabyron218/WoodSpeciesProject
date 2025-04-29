@@ -1,0 +1,9 @@
+torch
+torchvision
+torchaudio
+selenium
+requests
+Pillow
+numpy
+tqdm
+matplotlib
